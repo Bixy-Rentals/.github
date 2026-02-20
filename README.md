@@ -48,7 +48,7 @@ Bixxxy is modular by design, consisting of **5 main repositories** — 3 fronten
 
 The core product. This is the main public-facing application where guests browse properties, search with filters, view listings, check real-time availability, make bookings, and complete payments. All the primary business logic flows through here.
 
-![Bixxxy Tenant App](https://bixyrentals.com/bixxxy-app.png)
+![Bixxxy Tenant App](https://landlord.bixyrentals.com/tenant/vacation-listings-light.png)
 *Browsing and booking short-term rentals on Bixxxy*
 
 ---
